@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Turtlerock0010
-- I am based off of yo mama's house
+- 🏠I am based off of yo mama's house
 - 🌱 I’m currently learning Javascript, Java, RBLX lua, C++ 
 - 👔Professional goober in Python
 - 📫 How to reach me is by probably begging that I realize that someone is trying to
